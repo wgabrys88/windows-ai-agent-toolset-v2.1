@@ -1,2 +1,3 @@
 # windows-ai-agent-toolset-v2.1
 lanczos OFF a huge speedup during screenshot creation - needs verification
+However, also some changes in the core of the system, this repo is ai assisted without proper analysis by me - i see it works a lot faster but I need to compare to version 2.0 before saying that an improvement - work in progress...
